@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "1azerSMP.aternos.me",
-    "port": 36558,
+    "ip": "babalarONLY.aternos.me",
+    "port": 14641,
     "version": "26.1",
     "try-creative": false
   },
